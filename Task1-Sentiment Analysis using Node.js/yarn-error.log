@@ -1,0 +1,38 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\pc\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express stopword spelling-corrector apos-to-lex-form natural cors
+
+PATH: 
+  C:\Python310\Scripts\;C:\Python310\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2021.1.0\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\pc\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\pc\AppData\Local\Programs\Python\Python39\;C:\Users\pc\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Users\pc\AppData\Local\GitHubDesktop\bin;C:\Users\pc\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: 2516:error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:677:
+
+npm manifest: 
+  {
+    "name": "abc",
+    "version": "abc",
+    "description": "abc",
+    "main": "abc",
+    "repository": "abc",
+    "author": "abc",
+    "license": "abc",
+    "private": null,
+    "dependencies": {
+      "typescript": "^4.7.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
